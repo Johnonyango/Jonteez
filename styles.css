@@ -1,0 +1,58 @@
+nav li {
+    display:inline;
+    margin-left: 30px;
+
+}
+nav li a {
+text-decoration: none;
+padding: 10px
+}
+h1 {
+    text-align :center;
+    color:pink;
+    background-color: black;
+}
+nav {
+    background-color:aqua;
+    height:20px;
+}
+body {
+    background-image: url("./image/Jonteez.jpg");
+    background-size :cover;
+    height:100%;
+    background-color: lightgrey
+}
+p {
+    color:white;
+}
+.Rozes{
+    border:4px solid aqua;
+    box-sizing:border-box;
+    height:200px;
+    width:300px;
+    padding: 30px;
+    
+}
+.Lillies{
+    border:4px solid aqua;
+    box-sizing:border-box;
+    height:200px;
+    width:300px;
+    padding: 30px;
+    
+}
+.Nerthers{
+    border:4px solid aqua;
+    box-sizing:border-box;
+    height:200px;
+    width:300px;
+    padding: 30px;
+    
+}
+
+#price {
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+
+}
